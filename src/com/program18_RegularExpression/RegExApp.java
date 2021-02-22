@@ -1,4 +1,4 @@
-package com.Program18_RegularExpression;
+package com.program18_RegularExpression;
 
 import java.util.regex.*;
 

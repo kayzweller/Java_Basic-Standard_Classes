@@ -1,4 +1,4 @@
-package com.Program14_ObjectsClass;
+package com.program14_ObjectsClass;
 
 import java.util.Objects;
 
