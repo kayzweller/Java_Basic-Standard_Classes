@@ -1,2 +1,2 @@
-# Java_Basic-Standard_Classes
+# Java Basic - Standard Classes
 Learning project of Java Basic - Standard Classes
